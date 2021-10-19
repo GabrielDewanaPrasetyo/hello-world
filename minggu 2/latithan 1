@@ -1,1 +1,12 @@
+<!doctype HTML>
+<html>
+	<head>
+		<title>My web page title</title>
+	</head>
+	<body>
+		<h1 id="hd1">My heading eliplant</h1>
+		<p>This is a pharagraph</p>
+		<ol>
 
+	</body>
+</html>
